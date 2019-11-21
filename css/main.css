@@ -1,0 +1,22 @@
+@charset "utf-8";
+header, nav, main, aside, footer {display: block; }
+img, embed, object, video {max-width: 100%;}
+		
+/* ----------  primary layout ---------- */
+
+#wrapper {
+		width: 950px;
+		margin: 0 auto;
+		}
+		
+#header {
+		padding-top: 40px;
+		width: 950px;
+		}
+		
+a:link,		
+a:visited {
+		color: #000;
+		text-decoration: none;
+		}
+		
