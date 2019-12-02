@@ -57,7 +57,7 @@ header{
 
 header nav .left {
 	margin: 0 auto;
-	padding: 0 0 0 3.5vw;
+	padding: 0 0 0 4.5vw;
 	float: left;
 	position: absolute;
 
@@ -95,7 +95,7 @@ header nav {
 
 header nav .right {
 	margin: 0 auto;
-	padding: 0 3.5vw 0 0;
+	padding: 0 4.5vw 0 0;
 	font-weight: 400;	
 	float: right;
 }
@@ -247,7 +247,7 @@ figure img {
 }
 
 figure {	    
-	width: calc(31% - 1vw);
+	width: calc(33.33% - 3vw);
     margin: 0 auto;
 	padding: 0;
 	position: relative;
