@@ -48,7 +48,6 @@ header{
 	width: 100%; /* 273.2vw 1366px; */
 	height: 50px;
 	float: left;
-	position: fixed;
 	z-index: 1;
 
 
@@ -90,6 +89,7 @@ header nav {
 	float: left;
 	z-index: 1;
 	position: absolute;
+	position: fixed;
 }
 
 
