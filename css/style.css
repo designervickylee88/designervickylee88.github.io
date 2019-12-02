@@ -64,7 +64,7 @@ header nav .left {
 }
 
 
-header nav .left h1 {
+header nav .left {
 	font-size: .85em;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
@@ -75,7 +75,7 @@ header nav .left h1 {
 
 }
 
-header nav .left h1 a {
+header nav .left a {
 	text-decoration: none;
 	color: #000;
 }
@@ -109,6 +109,35 @@ header nav .right a {
 
 
 }
+
+
+/* title */
+
+header .title h1 {
+	font-size: 3.5vw;
+	font-family: 'Baskervville', serif;
+	font-weight: 400;
+	text-decoration: none;
+	letter-spacing: none;
+	text-align: center;
+	margin: 0 auto;
+	padding: 7vw 0 0 0vw;
+
+}
+
+header p {
+	font-size: 1vw;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	text-decoration: none;
+	letter-spacing: none;
+	margin: 0 auto;
+
+
+}
+
+
+
 
 /* main */
 
@@ -173,7 +202,7 @@ main .text p span{
 main {
 	width: 94%; /* 1366px; */
 	margin: 0 auto;
-	padding: 10vw 2vw 0 2vw;
+	padding: 27vw 2vw 0 2vw;
 	text-align: center;
 }
 
@@ -261,7 +290,7 @@ figure {
 figure:hover figcaption {
 	-ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
 	filter: alpha(opacity=100);
-	opacity: .9;
+	opacity: .7;
 	top: 0;
 }
 
@@ -273,8 +302,8 @@ figcaption {
 	height: 100%;
 	width: 100%;
 	text-align: center;
-	background: #808080;
-	color: #808080;
+	background: #000;
+	color: #000;
 	-webkit-transition: all .05s ease;
 	-moz-transition: all .05s ease;
 	-o-transition: all .05s ease;
@@ -356,7 +385,7 @@ header {
 }
 
 main {
-	padding: 15vw 2vw 0 2vw;
+	padding: 30vw 2vw 0 2vw;
 
 
 }
@@ -401,7 +430,7 @@ header {
 }
 
 main {
-	padding: 20vw 2vw 0 2vw;
+	padding: 30vw 2vw 0 2vw;
 }
 
 
