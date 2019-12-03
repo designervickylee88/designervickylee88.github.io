@@ -141,6 +141,13 @@ header p {
 
 /* main */
 
+main .main {
+	width: 94%; /* 1366px; */
+	margin: 0 auto;
+	padding: 17vw 2vw 0 2vw;
+	text-align: center;
+}
+
 main .text {
 	margin: auto;
 	width: 40%;
@@ -202,7 +209,7 @@ main .text p span{
 main {
 	width: 94%; /* 1366px; */
 	margin: 0 auto;
-	padding: 27vw 2vw 0 2vw;
+	padding: 10vw 2vw 0 2vw;
 	text-align: center;
 }
 
