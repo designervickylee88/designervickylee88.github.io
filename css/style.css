@@ -183,12 +183,13 @@ main h1 {
 }
 
 main h2 {
-	font-size: 1em;
+	font-size: 0.9em;
 	font-family: 'Karla', sans-serif;
 	font-weight: 400;
+	text-transform: uppercase;
 	text-decoration: none;
-	letter-spacing: 0pt;
-	line-height: 1.5em;
+	letter-spacing: 0.5pt;
+	line-height: 1.3em;
 	margin: 0 auto;
 	color: rgb(128,128,128);
 
