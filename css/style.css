@@ -7,9 +7,9 @@ img, embed, object, video {max-width: 100%;}
 body {
 	margin: 0 auto;
 	padding: 0 auto;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Karla', sans-serif;
 	font-weight: 400;
-	letter-spacing: 0.5pt;
+	letter-spacing: 0pt;
 	background: rgb(240,240,240);
 	color: #000;
 
@@ -64,11 +64,11 @@ header nav .left {
 
 
 header nav .left {
-	font-size: .85em;
-	font-family: 'Montserrat', sans-serif;
+	font-size: 1.2em;
+	font-family: 'Karla', sans-serif;
 	font-weight: 400;
 	text-decoration: none;
-	letter-spacing: 0.5pt;
+	letter-spacing: 0pt;
 	margin: 0 auto;
 
 
@@ -101,7 +101,8 @@ header nav .right {
 }
 
 header nav .right a {
-	font-size: .85em;
+	font-size: 1.2em;
+	font-family: 'Karla', sans-serif;	
 	font-weight: 400;	
 	padding: 0 0 0 0px;
 	color: #000;
@@ -126,8 +127,8 @@ header .title h1 {
 }
 
 header p {
-	font-size: 1vw;
-	font-family: 'Montserrat', sans-serif;
+	font-size: 1.2vw;
+	font-family: 'Karla', sans-serif;
 	font-weight: 300;
 	text-decoration: none;
 	letter-spacing: none;
@@ -171,32 +172,35 @@ main .about {
 }
 
 main h1 {
-	font-size: .85em;
-	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5em;
+	font-family: 'Baskervville', serif;
 	font-weight: 400;
 	text-decoration: none;
-	letter-spacing: 0.5pt;
+	letter-spacing: 0pt;
+	line-height: 1.2em;
 	margin: 0 auto;
 
 }
 
 main h2 {
-	font-size: .85em;
-	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+	font-family: 'Karla', sans-serif;
 	font-weight: 400;
 	text-decoration: none;
-	letter-spacing: 0.5pt;
+	letter-spacing: 0pt;
+	line-height: 1.5em;
 	margin: 0 auto;
 	color: rgb(128,128,128);
 
 }
 
 main p {
-	font-size: .85em;
-	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+	font-family: 'Karla', sans-serif;
 	font-weight: 400;
 	text-decoration: none;
-	letter-spacing: 0.5pt;
+	letter-spacing: 0pt;
+	line-height: 1.5em;
 	margin: 0 auto;
 
 }
@@ -234,13 +238,13 @@ main figure img {
 main .previous a {
 	float: left;
 	text-align: left;
-	font-size: .85em;
-	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+	font-family: 'Karla', sans-serif;
 	font-weight: 400;
 	text-decoration: none;
-	letter-spacing: 0.5pt;
+	letter-spacing: 0pt;
 	margin: 0 auto;
-	padding: 0 0 0 0.9vw;
+	padding: 0 0 0 4.3vw;
 	color: #000;
 
 } 
@@ -248,13 +252,13 @@ main .previous a {
 main .next a {
 	float: right;
 	text-align: right;
-	font-size: .85em;
-	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+	font-family: 'Karla', sans-serif;
 	font-weight: 400;
 	text-decoration: none;
-	letter-spacing: 0.5pt;
+	letter-spacing: 0pt;
 	margin: 0 auto;
-	padding: 0 0.8vw 0 0;
+	padding: 0 4.3vw 0 0;
 	color: #000;
 
 } 
@@ -338,18 +342,18 @@ figcaption h2 {
 	color: #000;
 	padding: 0;
 	margin: 12vw 0 0 0; /*175px*/
-	font-size: 1.125vw; /*18px*/
-	font-family: 'Montserrat', sans-serif;
-	letter-spacing: 0.5pt;
+	font-size: 1.625vw; 
+	font-family: 'Karla', sans-serif;
+	letter-spacing: 0pt;
 	color: #fff;
 }
 
 figcaption h3 {
 	font-weight: 400;
 	margin: 5px 0 6.25vw 0; /*100px*/
-	font-size: .8125vw; /* =13/16px */
-	font-family: 'Montserrat', sans-serif;
-	letter-spacing: 0.5pt;
+	font-size: 1vw;
+	font-family: 'Karla', sans-serif;
+	letter-spacing: 0pt;
 	color: #fff;
 } 																																																																																		
 
@@ -431,7 +435,7 @@ figcaption h3 {
 	font-size: 2.7vw; /* =13/16px */
 
 } 	
-
+s
 header {
 	padding: 5vw 0 0 0;
 }
